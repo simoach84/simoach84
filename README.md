@@ -33,7 +33,7 @@ Je travaille principalement sur des projets académiques et pratiques pour renfo
 - **Dashboard Power BI**  
   Création de tableaux de bord interactifs pour le suivi de la performance.
 
-- **Analyse financière**  
+- **Analyse financière**   
   Études de budgets, dépenses et scénarios d’aide à la décision.
 
 ---
