@@ -1,7 +1,8 @@
 # 👋 Bonjour, je suis Mohammed
 
 Étudiant en **Sciences des données appliquées**  
-Ottawa-Canada
+Ottawa-Canada 
+
 Intéressé par l’analyse de données, la visualisation et la prise de décision basée sur les données
 
 ---
