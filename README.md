@@ -45,7 +45,3 @@ Je travaille principalement sur des projets académiques et pratiques pour renfo
 
 Merci de visiter mon GitHub 
 N’hésitez pas à explorer mes projets !
-
-
-- ⚡ Fun fact: ...
--->
